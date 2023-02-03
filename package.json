@@ -1,0 +1,12 @@
+{
+  "name": "mysql-watch-nodejs",
+  "version": "1.0.0",
+  "description": "Watch Mysql Modification",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "dotenv": "16.0.3"
+  }
+}
